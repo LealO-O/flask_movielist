@@ -9,3 +9,5 @@ index.html ---chapter3
 Jinja2 提供了一些过滤器，语法形式如下：
 {{ 变量|过滤器 }}
 左侧是变量，右侧是过滤器名。比如，上面的模板里使用 length 过滤器来获取 movies 的长度，类似 Python 里的 len() 函数。
+可以借助前端框架来完善页面样式，比如 Bootstrap、Semantic-UI、Foundation 等。它们提供了大量的 CSS 定义和动态效果，使用起来非常简单。
+扩展 Bootstrap-Flask 可以简化在 Flask 项目里使用 Bootstrap 的步骤。
